@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Java, React, DB**
 
-- 👨‍💻 All of my projects are available at [desimorenoh.com (comming soon)](desimorenoh.com (comming soon))
+- 👨‍💻 All of my projects are available at [desimorenoh.com (coming soon)](desimorenoh.com (coming soon))
 
-- 📫 How to reach me **desimorenoh@gmail.com**
+- 📫 Contact me at **desimorenoh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
