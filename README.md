@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Fullstack Project](https://github.com/desimorenoh/bftp2-fqt-grupo1)
 
-- 🌱 I’m currently learning **Java, React, DB**
+- 🌱 I’m currently learning **Java, React, DB, kotlin, AWS, Elasticsearch, Kibana, Kubernetes, Travis, Kafka**
 
-- 👨‍💻 All of my projects are available at [desimorenoh.com (coming soon)](desimorenoh.com (coming soon))
+- 👨‍💻 All of my projects are available at [desimorenoh.com](https://desimorenoh.netlify.app)
 
 - 📫 Contact me at **desimorenoh@gmail.com**
 
