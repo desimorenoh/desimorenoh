@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Desirée Moreno</h1>
 <h3 align="center">A passionate fullstack developer based in Barcelona</h3>
 
-- 🔭 I’m currently working on [Fullstack Project](https://github.com/desimorenoh/bftp2-fqt-grupo1)
+- 🔭 I’m currently working as a Junior Backend Engineer in [Adevinta Spain](https://www.adevinta.es/)
 
-- 🌱 I’m currently learning **Java, React, DB, kotlin, AWS, Elasticsearch, Kibana, Kubernetes, Travis, Kafka**
+- 🌱 I’m currently learning **Java, React, DB, kotlin, AWS, Elasticsearch, Kibana, Kubernetes, Travis, Kafka, DDD**
 
 - 👨‍💻 All of my projects are available at [desimorenoh.com](https://desimorenoh.netlify.app)
 
